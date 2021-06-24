@@ -1,17 +1,17 @@
 @font-face {
-	font-family: 'ElegantIcons';
-	src: url('../fonts/ElegantIcons.eot');
-	src: url('../fonts/ElegantIcons.eot?#iefix') format('embedded-opentype'),
-		url('../fonts/ElegantIcons.woff') format('woff'),
-		url('../fonts/ElegantIcons.ttf') format('truetype'),
-		url('../fonts/ElegantIcons.svg#ElegantIcons') format('svg');
+	font-family: "ElegantIcons";
+	src: url("../fonts/ElegantIcons.eot");
+	src: url("../fonts/ElegantIcons.eot?#iefix") format("embedded-opentype"),
+		url("../fonts/ElegantIcons.woff") format("woff"),
+		url("../fonts/ElegantIcons.ttf") format("truetype"),
+		url("../fonts/ElegantIcons.svg#ElegantIcons") format("svg");
 	font-weight: normal;
 	font-style: normal;
 }
 
 /* Use the following CSS code if you want to use data attributes for inserting your icons */
 [data-icon]:before {
-	font-family: 'ElegantIcons';
+	font-family: "ElegantIcons";
 	content: attr(data-icon);
 	speak: none;
 	font-weight: normal;
@@ -388,7 +388,7 @@ you can use the generic selector below, but it's slower:
 .icon_percent_alt,
 .icon_globe_alt,
 .icon_clipboard {
-	font-family: 'ElegantIcons';
+	font-family: "ElegantIcons";
 	speak: none;
 	font-style: normal;
 	font-weight: normal;
@@ -1838,12 +1838,11 @@ you can use the generic selector below, but it's slower:
 	content: "\e0e6";
 }
 
-
 .glyph {
 	float: left;
 	text-align: center;
-	padding: .75em;
-	margin: .4em 1.5em .75em 0;
+	padding: 0.75em;
+	margin: 0.4em 1.5em 0.75em 0;
 	width: 6em;
 	text-shadow: none;
 }
@@ -1866,7 +1865,7 @@ you can use the generic selector below, but it's slower:
 	text-align: center;
 	border: 0;
 	box-shadow: 0 0 0 1px #ccc;
-	padding: .2em;
+	padding: 0.2em;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
 }

@@ -22,6 +22,7 @@
 </p>
 
 <!-- ABOUT THE PROJECT -->
+
 ## Sobre o projeto
 
 <img src="https://i.imgur.com/SKnz1oI.png">
@@ -29,22 +30,24 @@
 O objetivo desse repositório é reformular e refazer passo por passo o antigo site Doki Doki Translate Club
 
 Motivos:
-* O antigo site estava mal estruturado
-* Um design que necessitava de ajustes
-* E uma pequeno reajuste e organização na parte dos mods
+
+- O antigo site estava mal estruturado
+- Um design que necessitava de ajustes
+- E uma pequeno reajuste e organização na parte dos mods
 
 O projeto ainda está em desenvolvimento, porém alguns dos trabalhos difíceis ja foram feitos e ja podem deixar o mesmo mais fácil.
 
 ### Ferramentas usadas
 
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [JavaScript]()
-* [HTML]()
-* [CSS]()
-* [SCSS]()
+- [Bootstrap](https://getbootstrap.com)
+- [JQuery](https://jquery.com)
+- [JavaScript]()
+- [HTML]()
+- [CSS]()
+- [SCSS]()
 
 <!-- LICENSE -->
+
 ## License
 
 Verifique o arquivo `LICENSE` para analisar as permissões sobre o modelo distribuído.
